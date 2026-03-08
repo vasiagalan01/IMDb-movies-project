@@ -1,6 +1,8 @@
 ## 🎬 IMDb Movies Analysis Project (PowerBI Dashboard) 
 
-In this project me and my team analyzed a dataset of 999 movies sourced from Kaggle and created a PowerBI dashboard as part of the Big Blue Data Academy Data Science Bootcamp. 
+This is my second 5-hour project developed as part of the Big Blue Data Academy Data Science Bootcamp.
+
+In this project me and my team analyzed a dataset of 999 IMDb movies sourced from Kaggle and created a PowerBI dashboard.
 
 🎯 Objective: Creating an interactive Power BI dashboard to analyze IMDb movie performance based on genres, directors, release years, gross, age ratings as well as comparing audience ratings with critics’ scores.
 
